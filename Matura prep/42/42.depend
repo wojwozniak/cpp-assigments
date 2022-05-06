@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1556657062 source:c:\users\wojtek\desktop\kalkulator_switch.cpp
-	<iostream>
-	<stdio.h>
-	<cstdlib>
-	<conio.h>
-

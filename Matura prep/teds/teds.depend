@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1556647803 source:c:\programowanie\teds\main.cpp
-	<iostream>
-	<cstdlib>
-	<cstdio>
-

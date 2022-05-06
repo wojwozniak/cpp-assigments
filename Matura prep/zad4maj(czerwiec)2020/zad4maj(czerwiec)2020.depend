@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1619042453 source:c:\programowanie\zad4maj(czerwiec)2020\main.cpp
-	<iostream>
-	<fstream>
-	<vector>
-

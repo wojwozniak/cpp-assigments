@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1604492607 source:c:\programowanie\para2009\main.cpp
-	<iostream>
-	<fstream>
-	<string>
-	<algorithm>
-

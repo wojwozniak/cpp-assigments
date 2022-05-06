@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1601488174 source:c:\programowanie\liczby\main.cpp
-	<iostream>
-	<fstream>
-	<vector>
-	<cmath>
-

@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1555878098 source:c:\programowanie\ff\main.cpp
-	<iostream>
-	<cstdlib>
-	<time.h>
-
