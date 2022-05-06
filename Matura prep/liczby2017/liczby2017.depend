@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604432370 source:c:\programowanie\liczby2017\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

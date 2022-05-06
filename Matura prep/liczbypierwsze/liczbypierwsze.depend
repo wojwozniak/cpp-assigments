@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601485016 source:c:\programowanie\liczbypierwsze\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+
