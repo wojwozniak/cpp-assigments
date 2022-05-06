@@ -1,0 +1,10 @@
+Podpunkt a
+Ilosc slow dwucyklicznych 18
+Najwieksza dlugosc slowa dwucyklicznego to 32
+Najdluzsze slowo dwucykliczne to 00100101100011100010010110001110
+Podpunkt b 
+Tyle niepoprawnych slow 359
+Taki najkrotszy 4
+Podpunkt c
+54885
+1101011001100101
