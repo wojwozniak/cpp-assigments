@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604249746 source:c:\programowanie\tes\main.cpp
+	<iostream>
+	<fstream>
+
