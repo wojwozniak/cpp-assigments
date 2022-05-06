@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555879607 source:c:\programowanie\ytr\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+
