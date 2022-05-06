@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604253418 source:c:\programowanie\hasla2011\main.cpp
+	<iostream>
+	<fstream>
+
